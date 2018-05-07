@@ -1,12 +1,15 @@
-h1 {
-  color: #0000ff;
-}
+/*
+ Creare foglio di stile con stesse regole di formattazione del file 01-base.html
+- colore titolo h1 in blu
+- colore sottotitolo h2 in verde con sfondo giallo
+*/
 
-h2 {
-  color: #666666;
-}
 
-li {
-  font-weight: bold;
-  line-height: 30px;
-}
+
+
+
+/*
+ comandi aggiuntivi per singolo elemento dell'elenco puntato con:
+ - scritta in grassetto
+ - altezza della linea 30px;
+*/
